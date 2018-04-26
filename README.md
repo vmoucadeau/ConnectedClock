@@ -12,7 +12,7 @@ Je me suis basé sur la doc de la <a href=https://luma-led-matrix.readthedocs.io
 <br/>
 <img src="https://image.ibb.co/jTQUTc/array.png" alt="array" border="0">
 <br/>
-> Pour vous repérer sur les pins du RaspBerry :
+Pour vous repérer sur les pins du RaspBerry :
 <br/>
 <img src="https://image.ibb.co/epF2gx/gpio.png" alt="gpio" border="0">
 <br/>
@@ -21,11 +21,12 @@ Je me suis basé sur la doc de la <a href=https://luma-led-matrix.readthedocs.io
 
 > Pour activer le SPI sur le RaspBerry (nécessaire pour faire fonctionner la matrix), rentrez la commande suivante dans le terminal :
 <br/><code>sudo raspi-config</code>
+<br/>
 > Descendez ensuite jusqu'au numéro 5 (Avec la flèche bas du clavier)
 <br/><img src="https://image.ibb.co/egPETc/raspiconfig1.png" alt="raspiconfig1" border="0">
-> Faites "Entrée"
+<br/> Faites "Entrée"
 <br/> Descendez jusqu'a "P4 SPI" puis enter
 <br/><img src="https://image.ibb.co/b8R01x/raspiconfig2.png" alt="raspiconfig2" border="0"
-> Il vous demande ensuite si vous voulez activer le SPI, faites oui
+<br/> Il vous demande ensuite si vous voulez activer le SPI, faites oui
 <br/><img src="https://image.ibb.co/fBdSEH/raspiconfig3.png" alt="raspiconfig3" border="0">
 
