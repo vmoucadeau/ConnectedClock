@@ -27,6 +27,6 @@ Pour vous repérer sur les pins du RaspBerry :
 <br/> Faites "Entrée"
 <br/> Descendez jusqu'a "P4 SPI" puis enter
 <br/><img src="https://image.ibb.co/b8R01x/raspiconfig2.png" alt="raspiconfig2" border="0"
-<br/> Il vous demande ensuite si vous voulez activer le SPI, faites oui
+<br/><blockquote> Il vous demande ensuite si vous voulez activer le SPI, faites oui   </blockquote>   
 <br/><img src="https://image.ibb.co/fBdSEH/raspiconfig3.png" alt="raspiconfig3" border="0">
 
