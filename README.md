@@ -22,7 +22,7 @@ Pour vous repérer sur les pins du RaspBerry :
 > Pour activer le SPI sur le RaspBerry (nécessaire pour faire fonctionner la matrix), rentrez la commande suivante dans le terminal :
 <br/><code>sudo raspi-config</code>
 <br/> Descendez ensuite jusqu'au numéro 5 (Avec la flèche bas du clavier)
-<br/><img src="https://image.ibb.co/iE2ZTc/raspiconfig1.png" alt="raspiconfig1" border="0">
+<br/><img src="https://image.ibb.co/egPETc/raspiconfig1.png" alt="raspiconfig1" border="0">
 <br/> Faites "Entrée"
 <br/> Descendez jusqu'a "P4 SPI" puis enter
 <br/>
