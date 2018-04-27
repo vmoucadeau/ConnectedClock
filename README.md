@@ -6,8 +6,8 @@
 
 # Installation
 
-
-> Je me suis basé sur la doc de la [librairie](https://luma-led-matrix.readthedocs.io/en/latest/install.html "Lien vers la documentation") de la matrix
+> Je me suis basé sur la doc de la [librairie](https://luma-led-matrix.readthedocs.io/en/latest/install.html "Lien vers la documentation") de la matrix  
+> Vous pouvez aussi regarder la vidéo YouTube que j'ai fait sur le sujet.
 
 ## Branchements
 
@@ -51,13 +51,13 @@ Descendez jusqu'a "P4 SPI" puis enter
 
 > Commencez par effectuer les commandes suivantes, certaines ne sont pas nécessaire car elles sont déjà installées par défaut sur le RaspBerry :
 > `sudo usermod -a -G spi,gpio pi`  
-> Puis : `sudo apt-get install build-essential python-dev python-pip libfreetype6-dev libjpeg-dev`
+> Puis : `sudo apt-get install build-essential python-dev python-pip libfreetype6-dev libjpeg-dev`  
 > Pour finir : `sudo -H pip install --upgrade luma.led_matrix`
 
 ## Premier test ! ##
 
 > Avant de lancer le programme, nous allons exécuter un programme de test fournis dans le GitHub de la librairie  
-> Commencez par lancer la commande suivante pour télécharger le repository GitHub de la librairie :
+> Commencez par lancer la commande suivante pour télécharger le repository GitHub de la librairie :  
 > `cd Desktop && git clone https://github.com/rm-hull/luma.led_matrix.git`  
 > (Je l'ai placé sur le bureau avec `cd Desktop` mais vous pouvez le mettre où vous voulez).  
 > Ouvrez ensuite le dossier, puis faites "outil", ouvrir le dossier actuel dans un terminal :
