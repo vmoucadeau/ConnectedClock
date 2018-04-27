@@ -55,7 +55,7 @@ Descendez jusqu'a "P4 SPI" puis enter
 
 > Commencez par effectuer les commandes suivantes, certaines ne sont pas nécessaire car elles sont déjà installées par défaut sur le RaspBerry :  
 > `sudo usermod -a -G spi,gpio pi`  
-> Puis : `sudo apt-get install build-essential python-dev python-pip libfreetype6-dev libjpeg-dev`
+> Puis : `sudo apt-get install build-essential python-dev python-pip libfreetype6-dev libjpeg-dev`  
 > Pour finir : `sudo -H pip install --upgrade luma.led_matrix`
 
 # Premier test ! 
