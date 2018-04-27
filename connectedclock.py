@@ -34,7 +34,7 @@ yt_activation = True #(Ou False) : Variable d'activation des informations YouTub
 # Cela vous permet de désactiver les messages liés aux informations de votre chaine (si vous en avez pas, mettez False)
 
 # Votre clef API YouTube ici :
-yt_apikey = "AIzaSyAC_UVnLkTps5Cbtb47EvJT7EF40HEeSh4"
+yt_apikey = ""
 # Info : Pour récupérer votre clef API, RDV sur https://console.developers.google.com/apis
 
 #L'id de votre chaine ici :
