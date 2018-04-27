@@ -3,6 +3,8 @@
 # Copyright (c) 2017-18 Richard Hull and contributors
 # See LICENSE.rst for details.
 
+# Copyright © 2018 Vincent Moucadeau, GENERATION2GEEK
+
 import re
 import time
 import argparse
