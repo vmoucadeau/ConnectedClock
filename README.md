@@ -91,7 +91,7 @@ Descendez jusqu'a "P4 SPI" puis enter
 
 ![](https://image.ibb.co/gWL2zH/rclocal.png)
 
-> Il vous suffit de rajouter la ligne `python /home/pi/Desktop/connectedclock.py &` entre `fi` et `exit 0` **NE TOUCHEZ A RIEN D'AUTRE, SINON VOUS DEVREZ PEUT ETRE REINSTALLER RASPBIAN (si vous supprimez `exit 0` par exemple)**
+> Il vous suffit de rajouter la ligne `python /home/pi/Desktop/connectedclock.py &` entre `fi` et `exit 0` **NE TOUCHEZ A RIEN D'AUTRE, SINON VOUS DEVREZ PEUT ETRE REINSTALLER RASPBIAN.**
 
 # FIN #
 
@@ -111,4 +111,4 @@ Descendez jusqu'a "P4 SPI" puis enter
 	- Compteur d'abonnés et de vues YouTube
 	- Horloge
 	- Animations (Changement de minutes, heures...)
-	- Diminution et augmentation de la luminosité grâce à une plage horaire définie
+	- Diminution et augmentation de la luminosité selon une plage horaire définie
