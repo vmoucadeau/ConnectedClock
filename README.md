@@ -3,7 +3,7 @@
 
 > Ce projet permet d'afficher l'heure et les statistiques d'une chaîne YouTube sur une matrix de LED 8*32 (à acheter [ici](https://www.amazon.fr/gp/product/B072XLD57Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1 "Lien vers la page Amazon du produit")) et un RaspBerry Pi avec connexion internet.  
 Quelques animations sont incluses.  
-Vous pouvez bien évidement modifier le code à votre aise pour rajouter des fonctionnalités, n'hésitez pas à le partager avec la communauté. 
+Vous pouvez bien évidement modifier le code à votre guise pour rajouter des fonctionnalités, n'hésitez pas à le partager avec la communauté. 
 
 # Installation
 
