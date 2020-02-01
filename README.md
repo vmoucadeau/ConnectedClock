@@ -9,7 +9,7 @@ Vous pouvez bien évidement modifier le code à votre aise pour rajouter des fon
 
 
 > Je me suis basé sur la doc de la [librairie](https://luma-led-matrix.readthedocs.io/en/latest/install.html "Lien vers la documentation") de la matrix  
-> Vous pouvez aussi regarder la vidéo YouTube que j'ai fait sur le sujet.
+> Vous pouvez aussi regarder la vidéo YouTube que j'ai fait sur le sujet (à venir).
 
 ## Branchements
 
