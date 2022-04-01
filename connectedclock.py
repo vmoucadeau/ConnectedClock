@@ -237,30 +237,9 @@ while True:
 	monthnbr = datetime.now().strftime('%m') # Récup du mois (le numéro)
 	sec = datetime.now().strftime('%S') # Récup des secondes
 	year = datetime.now().strftime('%Y') # Récup des années
-	if monthnbr == "01":	 #-----|
-		month = "Janvier"	 #	   |
-	elif monthnbr == "02":	 #	   |
-		month = "Fevrier"	 #	   |
-	elif monthnbr == "03":	 #	   |
-		month = "Mars"		 #	   |
-	elif monthnbr == "04":	 #	   |
-		month = "Avril"	     #	   |
-	elif monthnbr == "05":	 #	   |
-		month = "Mai"		 #	   |
-	elif monthnbr == "06":	 #	   |
-		month = "Juin"	     #	   |
-	elif monthnbr == "07":	 #	   |---------------- Permet de déterminer le nom du mois actuel
-		month = "Juillet"	 #     |
-	elif monthnbr == "08":	 #     |
-		month = "Aout"		 #	   |
-	elif monthnbr == "09":	 #	   |
-		month = "Septembre"	 #	   |
-	elif monthnbr == "10":	 #	   | 
-		month = "Octobre"	 #     |
-	elif monthnbr == "11":	 #     |
-		month = "Novembre"	 #     |
-	elif monthnbr == "12":	 #	   |
-		month = "Decembre"   #-----|
+	
+	monthlist = ["Janvier", "Fevrier", "Mars", "Avril", "Mai", "Juin", "Juillet", "Aout", "Septembre", "Octobre", "Novembre", "Decembre"]
+	month = monthlist[monthnbr] # Récup du mois
 	
 	if yt_activation:
 		if sec == "15":
